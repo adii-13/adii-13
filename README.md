@@ -45,8 +45,15 @@ backend frameworks, databases, and modern frontend technologies.
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
+       width="40" height="40"
+       style="filter: invert(1);" />
+</p>
+
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=adii-13&show_icons=true&locale=en&layout=compact"
     alt="adii-13" />
 </p>
+
 
