@@ -41,10 +41,8 @@ backend frameworks, databases, and modern frontend technologies.
 
 <p align="center">
   <img
-    src="https://github.com/logos/blob/main/logos/github-mark/github-mark-white.png?raw=true"
-    width="40"
-    height="40"
-    alt="GitHub logo"
+    src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
   />
 </p>
 
@@ -54,6 +52,7 @@ backend frameworks, databases, and modern frontend technologies.
     alt="adii-13"
   />
 </p>
+
 
 
 
