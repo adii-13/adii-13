@@ -24,22 +24,25 @@ backend frameworks, databases, and modern frontend technologies.
 - ⚡ Fun fact **I enjoy debugging more than writing new code 😄**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <a href="https://linkedin.com/in/h-s-adithya-chakravarthy-a33505144" target="_blank">
-    <img align="center"
+    <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="LinkedIn"
-      height="30"
-      width="40" />
+      width="40"
+      height="30" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/_.adii___._?igsh=MWY2cHdwMWR0eG5lOA==" target="_blank">
-    <img align="center"
+    <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Instagram"
-      height="30"
-      width="40" />
+      width="40"
+      height="30" />
   </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
