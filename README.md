@@ -106,18 +106,20 @@ backend frameworks, databases, and modern frontend technologies.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=adii-13&show_icons=true&theme=dark"
+    src="https://github-readme-stats.vercel.app/api?username=adii-13&show_icons=true&count_private=true"
     alt="GitHub Stats"
   />
 </p>
+
 <h3 align="center">🔥 GitHub Streak</h3>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=adii-13&theme=dark"
+    src="https://streak-stats.demolab.com?user=adii-13"
     alt="GitHub Streak"
   />
 </p>
+
 
 
 
