@@ -102,6 +102,22 @@ backend frameworks, databases, and modern frontend technologies.
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
   </a>
 </p>
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=adii-13&show_icons=true&theme=dark"
+    alt="GitHub Stats"
+  />
+</p>
+<h3 align="center">🔥 GitHub Streak</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=adii-13&theme=dark"
+    alt="GitHub Streak"
+  />
+</p>
 
 
 
