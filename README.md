@@ -40,20 +40,20 @@ backend frameworks, databases, and modern frontend technologies.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-       width="40" height="40" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
-       width="40" height="40"
-       style="filter: invert(1);" />
+  <img
+    src="https://github.com/logos/blob/main/logos/github-mark/github-mark-white.png?raw=true"
+    width="40"
+    height="40"
+    alt="GitHub logo"
+  />
 </p>
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=adii-13&show_icons=true&locale=en&layout=compact"
-    alt="adii-13" />
+    alt="adii-13"
+  />
 </p>
+
 
 
